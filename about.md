@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I am a student at UBC
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+MDS program is asking me to make a blog, ta dah!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tryclickingme@domain.com](mailto:tryclickingme@domain.com)
