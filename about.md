@@ -8,7 +8,7 @@ Hi I am a student at UBC
 
 ### More Information
 
-MDS program is asking me to make a blog, ta dah!
+MDS program is asking me to make a blog.
 
 ### Contact me
 
